@@ -2,6 +2,7 @@
 **Inventory Management System using FPGA**
 **Introduction**
 This repository contains the Verilog implementation of an Inventory Management System using FPGA Artix-7. The system aims to efficiently manage large-scale commercial warehouses with FPGA hardware interference for space management and classification. It offers low-cost, power-efficient storage organization as a competitive alternative to software-based systems.
+
 **Features**
 1. **Password Security:** The system employs an 8-bit long decimal number password verification mechanism to ensure unauthorized access is prevented. After three failed attempts, the system alerts the authorities, requiring a Master Password for access.
 2. **Product ID Encoder:** Users can input a product's ID to obtain its designated location in the warehouse. The system allocates the product's location based on its priority, floor, section, sub-section, and shelf.
