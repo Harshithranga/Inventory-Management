@@ -1,5 +1,5 @@
 # Inventory-Management
-**Inventory Management System using FPGA - README**
+**Inventory Management System using FPGA**
 **Introduction**
 This repository contains the Verilog implementation of an Inventory Management System using FPGA Artix-7. The system aims to efficiently manage large-scale commercial warehouses with FPGA hardware interference for space management and classification. It offers low-cost, power-efficient storage organization as a competitive alternative to software-based systems.
 **Features**
