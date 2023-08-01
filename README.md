@@ -10,7 +10,7 @@ This repository contains the Verilog implementation of an Inventory Management S
 4. **Warehouse Layout:** The warehouse consists of three floors, each with five sections, further divided into five sub-sections. Each sub-section contains five shelves, with each shelf capable of holding 75 units of a unique product. The system supports a total of 125 unique products and 9375 units.
 **Hardware and Software**
 - FPGA Hardware: Artix-7 4DDR (XC7A100TCSG324-1)
-- EDA Tool: Vivado Xilinx 2014.2 Version/2021 Version
+- EDA Tool: Vivado Xilinx 2020.3 Version/2021 Version
 **Installation and Usage**
 1. Clone the repository to your local machine.
 2. Open the project in Vivado and synthesize the Verilog code for the FPGA.
